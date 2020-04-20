@@ -7,8 +7,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.4.2'
-        //bintray 插件
-        classpath 'com.novoda:bintray-release:0.9'
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
     }
 }
 
