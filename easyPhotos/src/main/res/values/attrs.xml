@@ -23,7 +23,7 @@
         <attr name="easy_iconSrc" format="reference"/>
         <attr name="easy_iconLeft" format="dimension"/>
         <attr name="easy_iconRight" format="dimension"/>
-        <attr name="easy_duration_max" format="dimension"/>
+        <attr name="easy_duration_max" format="integer"/>
     </declare-styleable>
 
     <declare-styleable name="SubsamplingScaleImageView">
