@@ -38,6 +38,7 @@ dependencies {
 
     implementation project(':easyPhotos')
 
+
     //implementation 'com.joker.HuanTanSheng:EasyPhotos:andX-2.5.2'
 
     implementation 'com.tencent.bugly:crashreport:latest.release'

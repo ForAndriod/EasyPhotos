@@ -32,7 +32,8 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
     implementation 'androidx.exifinterface:exifinterface:1.1.0'
     implementation 'com.github.chrisbanes:PhotoView:2.3.0'
-    //implementation 'com.github.yalantis:ucrop:2.2.4'
-    api 'com.joker.HuanTanSheng:UCrop:andX-2.5.1'
+    implementation project(path: ':ucrop')
+
+
 }
 
