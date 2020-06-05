@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">EasyPhotos</string>
+
+    <string name="selector_folder_all_easy_photos">All Photos</string>
+
+    <string name="selector_folder_all_video_photo_easy_photos">Photos and Videos</string>
+
+    <string name="selector_folder_video_easy_photos">All Videos</string>
+
+    <string name="selector_easy_photos">Select</string>
+
+    <string name="selector_action_done_easy_photos">Done(%1$d/%2$d)</string>
+
+    <string name="selector_preview_easy_photos">Preview</string>
+
+    <string name="selector_reach_max_hint_easy_photos">Only %d picture or video can be selected</string>
+
+    <string name="selector_reach_max_image_hint_easy_photos">Only %d picture can be selected</string>
+
+    <string name="selector_reach_max_video_hint_easy_photos">Only %d video can be selected</string>
+
+    <string name="selector_mutual_exclusion_easy_photos">Pictures and videos can not be selected at the same time</string>
+
+    <string name="msg_no_file_easy_photos">The file does not exist or is damaged!</string>
+
+    <string name="msg_no_camera_easy_photos">The camera is not available</string>
+
+    <string name="camera_temp_file_error_easy_photos">Picture error</string>
+
+    <string name="selector_permission_error_easy_photos">Permission error, failed to work properly!</string>
+
+    <string name="selector_image_size_error_easy_photos">The width of the picture must be greater than %1$d, and the height must be greater than %2$d</string>
+
+    <string name="selector_image_type_error_easy_photos">Format of this picture is not supported</string>
+
+    <string name="edit_easy_photos">Edit</string>
+
+    <string name="empty_easy_photos">Clear</string>
+
+    <string name="no_photos_easy_photos">No photos meet the requirements. Take one now</string>
+
+    <string name="permissions_again_easy_photos">Tap and allow related permissions</string>
+
+    <string name="permissions_die_easy_photos">Tap and allow related permissions in your phone\'s settings</string>
+
+    <string name="original_easy_photos">Original</string>
+
+    <string name="preview_current_number_easy_photos">%1$d/%2$d</string>
+
+    <string name="done_easy_photos">Done</string>
+
+    <string name="cancel_easy_photos">Cancel</string>
+
+    <string name="template_easy_photos">Template</string>
+
+    <string name="text_sticker_easy_photos">Text</string>
+
+    <string name="text_sticker_date_easy_photos">Date</string>
+
+    <string name="text_sticker_hint_easy_photos">Double tap to edit</string>
+
+    <string name="text_sticker_hint_name_easy_photos">User-defined</string>
+
+    <string name="picture_selection_easy_photos">Photos selection</string>
+
+    <string name="video_selection_easy_photos">Videos selection</string>
+
+    <string name="puzzle_easy_photos">Combine your photos</string>
+
+    <string name="select_puzzle_photos">Please select 2-9 photos</string>
+
+    <string name="gif_easy_photos">GIF</string>
+
+    <string name="video_easy_photos">Video</string>
+
+    <string name="tap_take_photo">Tap to take photo</string>
+
+    <string name="long_press_camera">Hold to record video</string>
+
+    <string name="tap_take_photo_long_press_camera_split">,</string>
+
+    <string name="recording_too_short">Recording time is too short</string>
+
+    <string name="missing_audio_permission">No recording permission</string>
+
+    <string name="compressing_picture">In compression…</string>
+
+    <string name="ucrop_rotate">Rotate</string>
+
+    <string name="ucrop_scale">Zoom in and zoom out</string>
+
+    <string name="ucrop_crop">Cut</string>
+</resources>
