@@ -10,6 +10,7 @@ android {
         targetSdkVersion 29
         versionCode 25
         versionName "2.2.4-native"
+        resConfigs "zh-rCN", "en-rUS"
 
         vectorDrawables.useSupportLibrary = true
     }
