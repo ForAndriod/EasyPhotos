@@ -10,7 +10,7 @@ android {
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
-        resConfigs "zh-rCN", "en-rUS"
+        resConfigs "zh-rCN", "en"
         vectorDrawables.useSupportLibrary = true
 
         compileOptions {
